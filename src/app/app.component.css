@@ -1,0 +1,6 @@
+.background-image{
+    background: url('./../assets/b')no-repeat;
+   width: 100%;
+   height: 700px;
+    background-size: cover;
+}
